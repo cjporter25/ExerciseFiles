@@ -27,6 +27,8 @@ namespace Comments
 
     // **IMPORTANT**: You must modify the csproj file to tell the compiler to 
     //                create the documentation based on the below XML
+    // **IMPORTANT**: Use the command "dotnet build" instead to actually have the XML
+    //                generated
         static void Main(string[] args)
         {
             // Single line comments start with two slashes 
