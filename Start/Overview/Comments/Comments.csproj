@@ -3,6 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <!--Tells  the C# compiler to generate documentation from the comments-->
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <!--Specify the name of file that will contain this documentation-->
+    <DocumentationFile>Comments.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
