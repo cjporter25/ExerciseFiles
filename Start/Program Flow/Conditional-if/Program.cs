@@ -8,6 +8,9 @@ namespace Conditionals
         {
             int theVal = 55;
 
+        // **IMPORTANT**: The practical limit for conditionals is 4 or 5 blocks. If
+        //                the code exceeds that, consider using a switch block
+
         // TODO: if-else 
             if (theVal == 50) {
                 Console.WriteLine("theVal is 50");
