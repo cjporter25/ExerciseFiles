@@ -26,6 +26,8 @@ namespace MultiValues
             // Implicitly state that "result" is a tuple with two integers and
             //      assign it to the return tuple from "PlusTimes"
             (int, int) result = PlusTimes(6, 12);
+            // Since result is a tuple with two items, we can refer to them
+            //  using the keywords Item1 & Item2
             Console.WriteLine($"Sum: {result.Item1}, Product: {result.Item2}");
         }
 

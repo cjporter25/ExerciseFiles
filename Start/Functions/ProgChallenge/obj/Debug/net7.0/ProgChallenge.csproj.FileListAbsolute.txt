@@ -1,0 +1,15 @@
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.csproj.AssemblyReference.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.AssemblyInfoInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.AssemblyInfo.cs
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\bin\Debug\net7.0\ProgChallenge.exe
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\bin\Debug\net7.0\ProgChallenge.deps.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\bin\Debug\net7.0\ProgChallenge.runtimeconfig.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\bin\Debug\net7.0\ProgChallenge.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\bin\Debug\net7.0\ProgChallenge.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\refint\ProgChallenge.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ProgChallenge.genruntimeconfig.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Functions\ProgChallenge\obj\Debug\net7.0\ref\ProgChallenge.dll
