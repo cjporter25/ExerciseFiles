@@ -1,0 +1,16 @@
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\bin\Debug\net5.0\StringRep.exe
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\bin\Debug\net5.0\StringRep.deps.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\bin\Debug\net5.0\StringRep.runtimeconfig.dev.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\bin\Debug\net5.0\StringRep.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\bin\Debug\net5.0\StringRep.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.csproj.AssemblyReference.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.AssemblyInfo.cs
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\refint\StringRep.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\StringRep.genruntimeconfig.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\StringRep\obj\Debug\net5.0\ref\StringRep.dll

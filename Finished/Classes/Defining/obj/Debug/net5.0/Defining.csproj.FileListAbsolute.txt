@@ -1,0 +1,16 @@
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\bin\Debug\net5.0\Defining.exe
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\bin\Debug\net5.0\Defining.deps.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.dev.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\bin\Debug\net5.0\Defining.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\bin\Debug\net5.0\Defining.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.csproj.AssemblyReference.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfoInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfo.cs
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\refint\Defining.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\Defining.genruntimeconfig.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Finished\Classes\Defining\obj\Debug\net5.0\ref\Defining.dll
