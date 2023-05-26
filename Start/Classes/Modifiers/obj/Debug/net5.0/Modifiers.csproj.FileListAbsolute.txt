@@ -1,0 +1,5 @@
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.csproj.AssemblyReference.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.AssemblyInfoInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.AssemblyInfo.cs
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.csproj.CoreCompileInputs.cache

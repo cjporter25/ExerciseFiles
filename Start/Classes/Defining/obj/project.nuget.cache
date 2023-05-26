@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCMPdYiMjKIT1qEk+doz/BFsus23mjouX9ufsBzHWj1BQSqYAlx7MrXdL+JSdBJS72ljB6iK03DhgL69tAZP2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christopher Porter\\Desktop\\ExerciseFiles\\Start\\Classes\\Defining\\Defining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
