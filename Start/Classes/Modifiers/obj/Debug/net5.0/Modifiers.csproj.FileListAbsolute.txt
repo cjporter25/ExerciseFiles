@@ -3,3 +3,14 @@ C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\De
 C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.AssemblyInfoInputs.cache
 C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.AssemblyInfo.cs
 C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.exe
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.deps.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.runtimeconfig.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.runtimeconfig.dev.json
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\bin\Debug\net5.0\Modifiers.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\refint\Modifiers.dll
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.pdb
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\Modifiers.genruntimeconfig.cache
+C:\Users\Christopher Porter\Desktop\ExerciseFiles\Start\Classes\Modifiers\obj\Debug\net5.0\ref\Modifiers.dll
