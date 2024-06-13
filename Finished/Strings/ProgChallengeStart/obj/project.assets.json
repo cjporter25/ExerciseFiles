@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Christopher Porter\\.nuget\\packages\\": {}
+    "C:\\Users\\cj_po\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christopher Porter\\Desktop\\ExerciseFiles\\Finished\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
+      "projectUniqueName": "C:\\Users\\cj_po\\Desktop\\LinkedIn Learning\\C#ExerciseFiles\\Finished\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
       "projectName": "ProgChallengeStart",
-      "projectPath": "C:\\Users\\Christopher Porter\\Desktop\\ExerciseFiles\\Finished\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
-      "packagesPath": "C:\\Users\\Christopher Porter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christopher Porter\\Desktop\\ExerciseFiles\\Finished\\Strings\\ProgChallengeStart\\obj\\",
+      "projectPath": "C:\\Users\\cj_po\\Desktop\\LinkedIn Learning\\C#ExerciseFiles\\Finished\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
+      "packagesPath": "C:\\Users\\cj_po\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cj_po\\Desktop\\LinkedIn Learning\\C#ExerciseFiles\\Finished\\Strings\\ProgChallengeStart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Christopher Porter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cj_po\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -79,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

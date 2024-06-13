@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Vf8+Yy83eLE5SQXrMLPRgQ3c2xOhQEkSU7cjl6hWePqhdqOk6uvq4l90n4QqkK/oMY/9LoQqPNu4qoqXURMEJA==",
+  "dgSpecHash": "iqG4p0OZiI0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christopher Porter\\Desktop\\ExerciseFiles\\Start\\Strings\\Interpolation\\Strings.csproj",
+  "projectFilePath": "C:\\Users\\cj_po\\Desktop\\LinkedIn Learning\\C#ExerciseFiles\\Start\\Strings\\Interpolation\\Strings.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Christopher Porter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\cj_po\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cj_po\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cj_po\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cj_po\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
